@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 6a90b9a5a97df1249b5efd9d43491ee1
+timeCreated: 1431050827
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: poderes_0
+    21300002: poderes_1
+    21300004: poderes_2
+    21300006: poderes_3
+    21300008: poderes_4
+    21300010: poderes_5
+    21300012: poderes_6
+    21300014: poderes_7
+    21300016: poderes_8
+    21300018: poderes_9
+    21300020: poderes_10
+    21300022: poderes_11
+    21300024: poderes_12
+    21300026: poderes_13
+    21300028: poderes_14
+    21300030: poderes_15
+    21300032: poderes_16
+    21300034: poderes_17
+    21300036: poderes_18
+    21300038: poderes_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: poderes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 667
+        width: 395
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 617
+        width: 395
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 395
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 395
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 395
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 395
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 395
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 395
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 395
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 395
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 395
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 395
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 395
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 395
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 395
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 21
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 19
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 21
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poderes_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 18
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

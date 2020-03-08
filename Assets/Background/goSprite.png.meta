@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: a0f3b1ce4a7031b4ea5a4f376b88b2bf
+timeCreated: 1431537666
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: goSprite_0
+    21300002: goSprite_1
+    21300004: goSprite_2
+    21300006: goSprite_3
+    21300008: goSprite_4
+    21300010: goSprite_5
+    21300012: goSprite_6
+    21300014: goSprite_7
+    21300016: goSprite_8
+    21300018: goSprite_9
+    21300020: goSprite_10
+    21300022: goSprite_11
+    21300024: goSprite_12
+    21300026: goSprite_13
+    21300028: goSprite_14
+    21300030: goSprite_15
+    21300032: goSprite_16
+    21300034: goSprite_17
+    21300036: goSprite_18
+    21300038: goSprite_19
+    21300040: goSprite_20
+    21300042: goSprite_21
+    21300044: goSprite_22
+    21300046: goSprite_23
+    21300048: goSprite_24
+    21300050: goSprite_25
+    21300052: goSprite_26
+    21300054: goSprite_27
+    21300056: goSprite_28
+    21300058: goSprite_29
+    21300060: goSprite_30
+    21300062: goSprite_31
+    21300064: goSprite_32
+    21300066: goSprite_33
+    21300068: goSprite_34
+    21300070: goSprite_35
+    21300072: goSprite_36
+    21300074: goSprite_37
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: goSprite_0
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 951
+        width: 346
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_2
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 941
+        width: 343
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_4
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 930
+        width: 341
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_6
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 934
+        width: 337
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_8
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 941
+        width: 334
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 737
+        width: 331
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_12
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 737
+        width: 328
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_14
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 747
+        width: 325
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_16
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 737
+        width: 322
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_18
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 756
+        width: 319
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_20
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 534
+        width: 317
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_22
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 527
+        width: 314
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_24
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 534
+        width: 310
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_26
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 537
+        width: 307
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_28
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 559
+        width: 305
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_30
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 334
+        width: 301
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_32
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 328
+        width: 298
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_34
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 335
+        width: 295
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goSprite_36
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 330
+        width: 293
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

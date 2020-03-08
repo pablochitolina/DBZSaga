@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: f8c95a8ab314f0c4c8f5b116e7cf972e
+timeCreated: 1431372958
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: n19_0
+    21300002: n19_1
+    21300004: n19_2
+    21300006: n19_3
+    21300008: n19_4
+    21300010: n19_5
+    21300012: n19_6
+    21300014: n19_7
+    21300016: n19_8
+    21300018: n19_9
+    21300020: n19_10
+    21300022: n19_11
+    21300024: n19_12
+    21300026: n19_13
+    21300028: n19_14
+    21300030: n19_15
+    21300032: n19_16
+    21300034: n19_19
+    21300036: n19_21
+    21300038: n19_22
+    21300040: n19_23
+    21300042: n19_24
+    21300044: n19_25
+    21300046: n19_26
+    21300048: n19_27
+    21300050: n19_28
+    21300052: n19_29
+    21300054: n19_30
+    21300056: n19_31
+    21300058: n19_32
+    21300060: n19_17
+    21300062: n19_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: n19_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 429
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 337
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 337
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 337
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 337
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 288
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 288
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 288
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 288
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 288
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 288
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 288
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_12
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 288
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 288
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 288
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 236
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 236
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 236
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 236
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 236
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 236
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 236
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 236
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 236
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 236
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 138
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 89
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 89
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 89
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 89
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 342
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: n19_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 337
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

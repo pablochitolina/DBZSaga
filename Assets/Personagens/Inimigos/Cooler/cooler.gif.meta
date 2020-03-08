@@ -1,0 +1,1155 @@
+fileFormatVersion: 2
+guid: 1588cd773a677424cbfeeaff11a1ad05
+timeCreated: 1431372324
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cooler_0
+    21300002: cooler_1
+    21300004: cooler_2
+    21300006: cooler_3
+    21300008: cooler_4
+    21300010: cooler_5
+    21300012: cooler_6
+    21300014: cooler_7
+    21300016: cooler_8
+    21300018: cooler_9
+    21300020: cooler_10
+    21300022: cooler_11
+    21300024: cooler_12
+    21300026: cooler_13
+    21300028: cooler_14
+    21300030: cooler_15
+    21300032: cooler_16
+    21300034: cooler_17
+    21300036: cooler_22
+    21300038: cooler_23
+    21300040: cooler_24
+    21300042: cooler_25
+    21300044: cooler_26
+    21300046: cooler_27
+    21300048: cooler_28
+    21300050: cooler_29
+    21300052: cooler_30
+    21300054: cooler_31
+    21300056: cooler_32
+    21300058: cooler_33
+    21300060: cooler_34
+    21300062: cooler_35
+    21300064: cooler_36
+    21300066: cooler_37
+    21300068: cooler_38
+    21300070: cooler_39
+    21300072: cooler_40
+    21300074: cooler_41
+    21300076: cooler_42
+    21300078: cooler_43
+    21300080: cooler_44
+    21300082: cooler_45
+    21300084: cooler_46
+    21300086: cooler_47
+    21300088: cooler_48
+    21300090: cooler_49
+    21300092: cooler_50
+    21300094: cooler_51
+    21300096: cooler_52
+    21300098: cooler_53
+    21300100: cooler_54
+    21300102: cooler_55
+    21300104: cooler_56
+    21300106: cooler_57
+    21300108: cooler_58
+    21300110: cooler_59
+    21300112: cooler_60
+    21300114: cooler_61
+    21300116: cooler_62
+    21300118: cooler_63
+    21300120: cooler_64
+    21300122: cooler_65
+    21300124: cooler_66
+    21300126: cooler_67
+    21300128: cooler_68
+    21300130: cooler_69
+    21300132: cooler_70
+    21300134: cooler_71
+    21300136: cooler_72
+    21300138: cooler_73
+    21300140: cooler_74
+    21300142: cooler_75
+    21300144: cooler_76
+    21300146: cooler_77
+    21300148: cooler_78
+    21300150: cooler_79
+    21300152: cooler_80
+    21300154: cooler_81
+    21300156: cooler_82
+    21300158: cooler_83
+    21300160: cooler_88
+    21300162: cooler_89
+    21300164: cooler_90
+    21300166: cooler_91
+    21300168: cooler_92
+    21300170: cooler_93
+    21300172: cooler_94
+    21300174: cooler_95
+    21300176: cooler_96
+    21300178: cooler_97
+    21300180: cooler_98
+    21300182: cooler_99
+    21300184: cooler_100
+    21300186: cooler_101
+    21300188: cooler_102
+    21300190: cooler_103
+    21300192: cooler_18
+    21300194: cooler_19
+    21300196: cooler_20
+    21300198: cooler_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cooler_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 950
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 950
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 950
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 861
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 861
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 861
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 861
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 814
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 814
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 814
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 814
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 814
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 814
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 814
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 814
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_15
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 814
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_16
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 814
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 814
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 757
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_23
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 757
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 757
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 757
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 758
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 758
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 758
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_29
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 758
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_30
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 758
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 758
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 710
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 710
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 663
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 663
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_36
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 663
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_37
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 663
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 570
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 570
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 570
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_41
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 570
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_42
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 518
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 518
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 518
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_45
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 518
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_46
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 518
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_47
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 518
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_48
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 518
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_49
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 518
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_50
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 518
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_51
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 518
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_52
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 518
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 465
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_54
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 465
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_55
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 465
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_56
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 466
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 466
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_58
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 466
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_59
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 466
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_60
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 466
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_61
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 466
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_62
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 466
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 413
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_64
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 413
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 362
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_66
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 362
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 362
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_68
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 362
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 273
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_70
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 273
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_71
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 273
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_72
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 273
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_73
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 226
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 226
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_75
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 226
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_76
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 226
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_77
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 226
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_78
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 226
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_79
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 226
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_80
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 226
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_81
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 226
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_82
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 226
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_83
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 226
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_88
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 169
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_89
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 169
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_90
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 169
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_91
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 169
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_92
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 170
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_93
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 170
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_94
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 170
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_95
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 170
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_96
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 170
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_97
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 170
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_98
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 122
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_99
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 122
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_101
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 75
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_102
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 75
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_103
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 75
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 865
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 861
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 278
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooler_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 273
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

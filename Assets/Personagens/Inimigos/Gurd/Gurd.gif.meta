@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: ad501867e8540d544b9357c47f432be3
+timeCreated: 1431372455
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gurd_0
+    21300002: Gurd_1
+    21300004: Gurd_2
+    21300006: Gurd_3
+    21300008: Gurd_4
+    21300010: Gurd_5
+    21300012: Gurd_6
+    21300014: Gurd_7
+    21300016: Gurd_8
+    21300018: Gurd_9
+    21300020: Gurd_10
+    21300022: Gurd_11
+    21300024: Gurd_12
+    21300026: Gurd_13
+    21300028: Gurd_14
+    21300030: Gurd_19
+    21300032: Gurd_20
+    21300034: Gurd_21
+    21300036: Gurd_22
+    21300038: Gurd_23
+    21300040: Gurd_24
+    21300042: Gurd_25
+    21300044: Gurd_26
+    21300046: Gurd_27
+    21300048: Gurd_28
+    21300050: Gurd_29
+    21300052: Gurd_30
+    21300054: Gurd_31
+    21300056: Gurd_32
+    21300058: Gurd_33
+    21300060: Gurd_15
+    21300062: Gurd_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Gurd_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 363
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 279
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 279
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 279
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 279
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 235
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 235
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 235
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 235
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 235
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 235
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 235
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 235
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 235
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_14
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 235
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 177
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 177
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 177
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 177
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 178
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 178
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 178
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_26
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 178
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_27
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 177
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_28
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 177
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_29
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 177
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 133
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 133
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_32
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 133
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 89
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 281
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gurd_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 279
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

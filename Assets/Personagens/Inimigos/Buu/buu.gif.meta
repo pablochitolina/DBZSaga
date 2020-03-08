@@ -1,0 +1,1804 @@
+fileFormatVersion: 2
+guid: 5c64d9182e00c0848afea4ed23268349
+timeCreated: 1431372112
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: buu_0
+    21300002: buu_1
+    21300004: buu_2
+    21300006: buu_3
+    21300008: buu_4
+    21300010: buu_5
+    21300012: buu_6
+    21300014: buu_7
+    21300016: buu_8
+    21300018: buu_9
+    21300020: buu_10
+    21300022: buu_11
+    21300024: buu_12
+    21300026: buu_13
+    21300028: buu_14
+    21300030: buu_15
+    21300032: buu_16
+    21300034: buu_17
+    21300036: buu_18
+    21300038: buu_19
+    21300040: buu_20
+    21300042: buu_24
+    21300044: buu_25
+    21300046: buu_26
+    21300048: buu_27
+    21300050: buu_28
+    21300052: buu_29
+    21300054: buu_30
+    21300056: buu_31
+    21300058: buu_32
+    21300060: buu_33
+    21300062: buu_34
+    21300064: buu_35
+    21300066: buu_36
+    21300068: buu_37
+    21300070: buu_38
+    21300072: buu_39
+    21300074: buu_40
+    21300076: buu_41
+    21300078: buu_42
+    21300080: buu_43
+    21300082: buu_44
+    21300084: buu_45
+    21300086: buu_46
+    21300088: buu_47
+    21300090: buu_48
+    21300092: buu_49
+    21300094: buu_50
+    21300096: buu_51
+    21300098: buu_52
+    21300100: buu_53
+    21300102: buu_55
+    21300104: buu_56
+    21300106: buu_59
+    21300108: buu_61
+    21300110: buu_62
+    21300112: buu_63
+    21300114: buu_64
+    21300116: buu_65
+    21300118: buu_66
+    21300120: buu_67
+    21300122: buu_68
+    21300124: buu_69
+    21300126: buu_70
+    21300128: buu_71
+    21300130: buu_72
+    21300132: buu_73
+    21300134: buu_74
+    21300136: buu_75
+    21300138: buu_76
+    21300140: buu_77
+    21300142: buu_78
+    21300144: buu_79
+    21300146: buu_80
+    21300148: buu_81
+    21300150: buu_82
+    21300152: buu_83
+    21300154: buu_85
+    21300156: buu_86
+    21300158: buu_87
+    21300160: buu_88
+    21300162: buu_89
+    21300164: buu_90
+    21300166: buu_93
+    21300168: buu_95
+    21300170: buu_96
+    21300172: buu_97
+    21300174: buu_98
+    21300176: buu_99
+    21300178: buu_100
+    21300180: buu_101
+    21300182: buu_102
+    21300184: buu_103
+    21300186: buu_104
+    21300188: buu_105
+    21300190: buu_106
+    21300192: buu_107
+    21300194: buu_108
+    21300196: buu_109
+    21300198: buu_110
+    21300200: buu_111
+    21300202: buu_112
+    21300204: buu_113
+    21300206: buu_114
+    21300208: buu_115
+    21300210: buu_116
+    21300212: buu_117
+    21300214: buu_118
+    21300216: buu_119
+    21300218: buu_120
+    21300220: buu_121
+    21300222: buu_123
+    21300224: buu_124
+    21300226: buu_127
+    21300228: buu_129
+    21300230: buu_130
+    21300232: buu_131
+    21300234: buu_132
+    21300236: buu_133
+    21300238: buu_134
+    21300240: buu_135
+    21300242: buu_136
+    21300244: buu_137
+    21300246: buu_138
+    21300248: buu_139
+    21300250: buu_140
+    21300252: buu_141
+    21300254: buu_142
+    21300256: buu_143
+    21300258: buu_144
+    21300260: buu_145
+    21300262: buu_146
+    21300264: buu_147
+    21300266: buu_148
+    21300268: buu_149
+    21300270: buu_150
+    21300272: buu_151
+    21300274: buu_152
+    21300276: buu_153
+    21300278: buu_154
+    21300280: buu_155
+    21300282: buu_160
+    21300284: buu_161
+    21300286: buu_162
+    21300288: buu_163
+    21300290: buu_164
+    21300292: buu_165
+    21300294: buu_166
+    21300296: buu_167
+    21300298: buu_168
+    21300300: buu_169
+    21300302: buu_170
+    21300304: buu_171
+    21300306: buu_172
+    21300308: buu_173
+    21300310: buu_174
+    21300312: buu_175
+    21300314: buu_176
+    21300316: buu_177
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: buu_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1615
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1615
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1615
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1615
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1615
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1615
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1615
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1525
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1525
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1525
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1525
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1477
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1477
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1477
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1477
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1477
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1477
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1477
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_18
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1477
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1477
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_20
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1477
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1427
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1427
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1427
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1427
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_28
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1427
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1427
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1427
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_31
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1427
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_32
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1427
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_33
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1427
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_34
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1427
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_35
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1427
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1367
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_37
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1367
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_38
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1367
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1320
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1227
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1227
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1227
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_43
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1227
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1178
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1177
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_46
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1177
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_47
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1177
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_48
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1178
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1178
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_50
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1178
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_51
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1178
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_52
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1178
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_53
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1178
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1125
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_56
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1125
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_59
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1125
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_61
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1125
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_62
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1125
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1125
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_64
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1125
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_65
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1125
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_66
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1125
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_67
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1124
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_68
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1124
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_69
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1124
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1076
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_71
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1077
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_72
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1077
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_73
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1027
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 936
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_75
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 936
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_76
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 936
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_77
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 936
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 886
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_79
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 886
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_80
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 886
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_81
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 887
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 887
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_83
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 887
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_85
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 887
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_86
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 887
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_87
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 887
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_88
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 887
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_89
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 834
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_90
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 834
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_93
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 834
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_95
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 833
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_96
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 833
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_97
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 834
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_98
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 834
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_99
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 834
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_100
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 834
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_101
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 834
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_102
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 834
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_103
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 834
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 774
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_105
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 774
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_106
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 774
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_107
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 714
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 623
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_109
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 623
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_110
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 623
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_111
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 623
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 573
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_113
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 573
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_114
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 573
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_115
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 574
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_116
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 574
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 574
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_118
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 574
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_119
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 574
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_120
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 574
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_121
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 574
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_123
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 521
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_124
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 521
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_127
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 521
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_129
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 520
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_130
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 518
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_131
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 521
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_132
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 521
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_133
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 521
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_134
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 521
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_135
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 521
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_136
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 521
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_137
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 521
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_138
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 461
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_139
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 461
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_140
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 461
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_141
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 401
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_142
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 314
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_143
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 314
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_144
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 314
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_145
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 314
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_146
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 267
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_147
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 267
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_148
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 267
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_149
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 267
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_150
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 267
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_151
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 267
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_152
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 267
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_153
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 267
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_154
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 267
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_155
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 267
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_160
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 209
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 209
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_162
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 209
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_163
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 209
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_164
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 209
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_165
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 209
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_166
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 209
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_167
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 209
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_168
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 209
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_169
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 209
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_170
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 209
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_171
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 209
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_172
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 149
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_173
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 149
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_174
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 149
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_175
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 89
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_176
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1525
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buu_177
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1529
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

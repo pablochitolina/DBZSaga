@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 99aaced0be08df248939c1c35ca18c6f
+timeCreated: 1432300410
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ss4_0
+    21300002: ss4_1
+    21300004: ss4_2
+    21300006: ss4_3
+    21300008: ss4_4
+    21300010: ss4_5
+    21300012: ss4_6
+    21300014: ss4_7
+    21300016: ss4_8
+    21300018: ss4_9
+    21300020: ss4_10
+    21300022: ss4_11
+    21300024: ss4_12
+    21300026: ss4_13
+    21300028: ss4_14
+    21300030: ss4_15
+    21300032: ss4_16
+    21300034: ss4_17
+    21300036: ss4_18
+    21300038: ss4_19
+    21300040: ss4_20
+    21300042: ss4_21
+    21300044: ss4_22
+    21300046: ss4_23
+    21300048: ss4_24
+    21300050: ss4_25
+    21300052: ss4_26
+    21300054: ss4_27
+    21300056: ss4_28
+    21300058: ss4_29
+    21300060: ss4_30
+    21300062: ss4_31
+    21300064: ss4_32
+    21300066: ss4_33
+    21300068: ss4_34
+    21300070: ss4_35
+    21300072: ss4_36
+    21300074: ss4_37
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ss4_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 411
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 411
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 411
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 411
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 411
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 411
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 411
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 357
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 357
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 359
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 359
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 355
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 354
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 356
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_14
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 356
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 355
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_16
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 355
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_17
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 355
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 301
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 301
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 301
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 301
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 301
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 301
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_24
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 301
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_25
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 301
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_26
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 301
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_27
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 302
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_28
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 302
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 302
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_30
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 243
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 132
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 118
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_33
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 117
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_35
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 417
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_36
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 412
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ss4_37
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 302
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1936 @@
+fileFormatVersion: 2
+guid: 2ae0d5a5f81a40746bb23f123f6dbf7f
+timeCreated: 1431368306
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: songoku_0
+    21300002: songoku_1
+    21300004: songoku_2
+    21300006: songoku_3
+    21300008: songoku_4
+    21300010: songoku_5
+    21300012: songoku_6
+    21300014: songoku_7
+    21300016: songoku_8
+    21300018: songoku_9
+    21300020: songoku_10
+    21300022: songoku_11
+    21300024: songoku_12
+    21300026: songoku_13
+    21300028: songoku_14
+    21300030: songoku_15
+    21300032: songoku_16
+    21300034: songoku_17
+    21300036: songoku_18
+    21300038: songoku_19
+    21300040: songoku_20
+    21300042: songoku_21
+    21300044: songoku_22
+    21300046: songoku_23
+    21300048: songoku_24
+    21300050: songoku_25
+    21300052: songoku_26
+    21300054: songoku_27
+    21300056: songoku_28
+    21300058: songoku_29
+    21300060: songoku_30
+    21300062: songoku_31
+    21300064: songoku_32
+    21300066: songoku_33
+    21300068: songoku_34
+    21300070: songoku_35
+    21300072: songoku_36
+    21300074: songoku_37
+    21300076: songoku_38
+    21300078: songoku_39
+    21300080: songoku_40
+    21300082: songoku_41
+    21300084: songoku_42
+    21300086: songoku_43
+    21300088: songoku_44
+    21300090: songoku_45
+    21300092: songoku_46
+    21300094: songoku_47
+    21300096: songoku_48
+    21300098: songoku_49
+    21300100: songoku_50
+    21300102: songoku_51
+    21300104: songoku_52
+    21300106: songoku_53
+    21300108: songoku_54
+    21300110: songoku_55
+    21300112: songoku_56
+    21300114: songoku_57
+    21300116: songoku_58
+    21300118: songoku_59
+    21300120: songoku_60
+    21300122: songoku_61
+    21300124: songoku_62
+    21300126: songoku_63
+    21300128: songoku_64
+    21300130: songoku_65
+    21300132: songoku_66
+    21300134: songoku_67
+    21300136: songoku_68
+    21300138: songoku_69
+    21300140: songoku_70
+    21300142: songoku_71
+    21300144: songoku_72
+    21300146: songoku_74
+    21300148: songoku_75
+    21300150: songoku_76
+    21300152: songoku_77
+    21300154: songoku_78
+    21300156: songoku_79
+    21300158: songoku_80
+    21300160: songoku_81
+    21300162: songoku_82
+    21300164: songoku_83
+    21300166: songoku_84
+    21300168: songoku_85
+    21300170: songoku_86
+    21300172: songoku_87
+    21300174: songoku_88
+    21300176: songoku_89
+    21300178: songoku_90
+    21300180: songoku_91
+    21300182: songoku_92
+    21300184: songoku_93
+    21300186: songoku_94
+    21300188: songoku_95
+    21300190: songoku_96
+    21300192: songoku_97
+    21300194: songoku_98
+    21300196: songoku_99
+    21300198: songoku_100
+    21300200: songoku_101
+    21300202: songoku_102
+    21300204: songoku_103
+    21300206: songoku_104
+    21300208: songoku_105
+    21300210: songoku_106
+    21300212: songoku_107
+    21300214: songoku_108
+    21300216: songoku_109
+    21300218: songoku_110
+    21300220: songoku_111
+    21300222: songoku_112
+    21300224: songoku_114
+    21300226: songoku_115
+    21300228: songoku_116
+    21300230: songoku_117
+    21300232: songoku_118
+    21300234: songoku_119
+    21300236: songoku_120
+    21300238: songoku_121
+    21300240: songoku_122
+    21300242: songoku_123
+    21300244: songoku_124
+    21300246: songoku_125
+    21300248: songoku_126
+    21300250: songoku_127
+    21300252: songoku_128
+    21300254: songoku_129
+    21300256: songoku_130
+    21300258: songoku_131
+    21300260: songoku_132
+    21300262: songoku_133
+    21300264: songoku_134
+    21300266: songoku_135
+    21300268: songoku_136
+    21300270: songoku_137
+    21300272: songoku_138
+    21300274: songoku_139
+    21300276: songoku_140
+    21300278: songoku_141
+    21300280: songoku_142
+    21300282: songoku_143
+    21300284: songoku_144
+    21300286: songoku_145
+    21300288: songoku_146
+    21300290: songoku_147
+    21300292: songoku_148
+    21300294: songoku_149
+    21300296: songoku_150
+    21300298: songoku_151
+    21300300: songoku_152
+    21300302: songoku_153
+    21300304: songoku_154
+    21300306: songoku_155
+    21300308: songoku_156
+    21300310: songoku_157
+    21300312: songoku_158
+    21300314: songoku_159
+    21300316: songoku_160
+    21300318: songoku_161
+    21300320: songoku_162
+    21300322: songoku_163
+    21300324: songoku_164
+    21300326: songoku_165
+    21300328: songoku_166
+    21300330: songoku_167
+    21300332: songoku_168
+    21300334: songoku_73
+    21300336: songoku_169
+    21300338: songoku_113
+    21300340: songoku_170
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: songoku_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1374
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1374
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1374
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1374
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1374
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1374
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1374
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1279
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1279
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1279
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1279
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_11
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1279
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1279
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1279
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1225
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1225
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1225
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1225
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1225
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1225
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1225
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1225
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1225
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_24
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1225
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_25
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1225
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1225
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1169
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1169
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1169
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1169
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_31
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1169
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_32
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1169
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_33
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1169
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_34
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1169
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_35
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1169
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_36
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1170
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_37
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1170
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_38
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1170
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_39
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1170
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1115
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1115
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1115
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1055
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_44
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1055
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_45
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1055
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 960
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 960
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_48
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 960
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_49
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 960
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_50
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 960
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_51
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 960
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 906
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_54
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 906
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_55
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 906
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_56
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 906
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_57
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 906
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_58
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 906
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_59
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 906
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_60
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 906
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 906
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_62
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 906
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_63
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 906
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_64
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 906
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_65
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 906
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_66
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 850
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_67
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 850
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_68
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 850
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_69
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 850
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_70
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 850
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_71
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 850
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_72
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 850
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_74
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 850
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_75
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 851
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_76
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 851
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_77
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 851
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_78
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 850
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_79
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 850
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 796
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_81
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 796
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_82
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 796
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_83
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 736
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_84
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 736
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_85
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 736
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_86
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 641
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_87
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 641
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 641
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_89
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 641
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_90
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 641
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_91
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 641
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 641
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_93
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 587
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_94
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 587
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_95
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 587
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_96
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 587
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_97
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 587
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_98
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 587
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_99
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 587
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_100
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 587
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_101
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 587
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_102
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 587
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_103
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 587
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 587
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_105
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 587
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_106
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 531
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_107
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 531
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_108
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 531
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_109
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 531
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_110
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 531
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_111
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 531
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 531
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_114
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 531
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_115
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 532
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_116
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 532
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_117
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 532
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_118
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 531
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_119
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 531
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_120
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 477
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_121
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 477
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_122
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 477
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_123
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 417
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_124
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 417
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_125
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 417
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_126
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 322
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_127
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 323
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_128
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 323
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_129
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 323
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_130
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 323
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_131
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 323
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 323
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 269
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_134
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 269
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_135
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 269
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_136
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 269
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_137
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 269
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_138
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 269
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_139
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 269
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_140
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 269
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_141
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 269
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_142
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 269
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_143
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 269
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_144
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 269
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_145
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 269
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_146
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 213
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_147
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 213
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_148
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 213
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_149
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 213
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_150
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 213
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_151
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 213
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_152
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 213
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_153
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 213
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_154
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 213
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_155
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 213
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_156
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 213
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_157
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 213
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_158
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 213
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_159
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_160
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 159
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_161
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 159
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_162
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 99
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_163
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 99
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_164
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 99
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_165
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1280
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_166
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1285
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_167
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 966
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_168
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 961
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_73
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 647
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_169
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 642
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_113
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 329
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: songoku_170
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 324
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
